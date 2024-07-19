@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bauhaus 93', sans-serif;
+    font-family: 'Century Gothic';
+}
+.contenedor{
+    width: 900%;
+    max-width: 1350px;
+    text-align: justify;
+}
+.contenedor h1{
+    font-size: 60px;
+    text-align:center;
+    background-color: #FDF5E6;
+}
+.contenedor p{
+    font-size: 130%;
+    background-color: #FFEFD5;
+}
