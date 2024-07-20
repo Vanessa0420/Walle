@@ -1,2 +1,0 @@
-# Walle
-Robot proyecto
